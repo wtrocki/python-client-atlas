@@ -1,8 +1,5 @@
 # See https://openapi-generator.tech/docs/generators
-# https://openapi-generator.tech/docs/generators/typescript/
-generatorName: typescript
+generatorName: python
 templateDir: "./config/templates"
 legacyDiscriminatorBehavior: false
-enumUnknownDefaultCase: true
-npmName: wtrocki
-sortParamsByRequiredFlag: true
+useOneOfDiscriminatorLookup: true

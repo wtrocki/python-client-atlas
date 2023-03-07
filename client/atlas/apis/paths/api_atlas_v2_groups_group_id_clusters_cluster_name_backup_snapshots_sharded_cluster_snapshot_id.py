@@ -1,0 +1,9 @@
+from atlas.paths.api_atlas_v2_groups_group_id_clusters_cluster_name_backup_snapshots_sharded_cluster_snapshot_id.get import ApiForget
+from atlas.paths.api_atlas_v2_groups_group_id_clusters_cluster_name_backup_snapshots_sharded_cluster_snapshot_id.delete import ApiFordelete
+
+
+class ApiAtlasV2GroupsGroupIdClustersClusterNameBackupSnapshotsShardedClusterSnapshotId(
+    ApiForget,
+    ApiFordelete,
+):
+    pass

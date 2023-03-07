@@ -1,0 +1,7 @@
+from atlas.paths.api_atlas_v2_groups_group_id_private_endpoint_cloud_provider_endpoint_service_endpoint_service_id_endpoint.post import ApiForpost
+
+
+class ApiAtlasV2GroupsGroupIdPrivateEndpointCloudProviderEndpointServiceEndpointServiceIdEndpoint(
+    ApiForpost,
+):
+    pass

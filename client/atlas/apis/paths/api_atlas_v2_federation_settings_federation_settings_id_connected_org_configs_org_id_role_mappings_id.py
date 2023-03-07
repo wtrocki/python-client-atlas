@@ -1,0 +1,11 @@
+from atlas.paths.api_atlas_v2_federation_settings_federation_settings_id_connected_org_configs_org_id_role_mappings_id.get import ApiForget
+from atlas.paths.api_atlas_v2_federation_settings_federation_settings_id_connected_org_configs_org_id_role_mappings_id.put import ApiForput
+from atlas.paths.api_atlas_v2_federation_settings_federation_settings_id_connected_org_configs_org_id_role_mappings_id.delete import ApiFordelete
+
+
+class ApiAtlasV2FederationSettingsFederationSettingsIdConnectedOrgConfigsOrgIdRoleMappingsId(
+    ApiForget,
+    ApiForput,
+    ApiFordelete,
+):
+    pass
