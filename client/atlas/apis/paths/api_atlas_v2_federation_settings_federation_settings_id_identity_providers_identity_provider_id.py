@@ -1,9 +1,0 @@
-from atlas.paths.api_atlas_v2_federation_settings_federation_settings_id_identity_providers_identity_provider_id.get import ApiForget
-from atlas.paths.api_atlas_v2_federation_settings_federation_settings_id_identity_providers_identity_provider_id.patch import ApiForpatch
-
-
-class ApiAtlasV2FederationSettingsFederationSettingsIdIdentityProvidersIdentityProviderId(
-    ApiForget,
-    ApiForpatch,
-):
-    pass

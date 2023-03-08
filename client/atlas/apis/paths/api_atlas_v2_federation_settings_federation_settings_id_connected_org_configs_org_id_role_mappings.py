@@ -1,9 +1,0 @@
-from atlas.paths.api_atlas_v2_federation_settings_federation_settings_id_connected_org_configs_org_id_role_mappings.get import ApiForget
-from atlas.paths.api_atlas_v2_federation_settings_federation_settings_id_connected_org_configs_org_id_role_mappings.post import ApiForpost
-
-
-class ApiAtlasV2FederationSettingsFederationSettingsIdConnectedOrgConfigsOrgIdRoleMappings(
-    ApiForget,
-    ApiForpost,
-):
-    pass
