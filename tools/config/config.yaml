@@ -1,5 +1,5 @@
 # See https://openapi-generator.tech/docs/generators
-generatorName: python
+generatorName: python-nextgen
 templateDir: "./config/templates"
 legacyDiscriminatorBehavior: false
 useOneOfDiscriminatorLookup: true
